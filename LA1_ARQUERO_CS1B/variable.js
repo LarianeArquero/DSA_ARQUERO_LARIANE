@@ -1,8 +1,3 @@
-/*Name: LARIANE A. ARQUERO
-Course&Section: BSCS 1B
-Activity No. LA1
-*/
-
 //Variables Activity
 let named = 'Lariane Arquero'; 
 //Let's create a variable and put my named
