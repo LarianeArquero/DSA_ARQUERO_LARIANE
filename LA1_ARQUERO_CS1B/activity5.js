@@ -13,9 +13,9 @@ let fullName = favActorFirstName +" "+ favActorLastName;
 //Let's create a variable named full name then let add the first name and second name
 let uppercase = fullName.toUpperCase(); 
 //Let's create a variable named to uppercase the fullname
-let message = `My Favorite Actor is ${uppercase},`; 
+let message = `My Favorite Actor is [${uppercase}],`; 
 //Let's create a variable named my favorite actor
-message = `is the most and influential Chinese actors.`; 
+message += `the most and influential Chinese actors.`; 
 //Let's append the message
 
 //Console.log the results
